@@ -1,4 +1,4 @@
-# Belief-Propagation-Based Trace Reconstruction over IDS Channels
+# Belief-Propagation-Based Trace Reconstruction over IDS Channels &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18355136.svg)](https://doi.org/10.5281/zenodo.18355136)
 
 
 This repository considers reconstruction of source sequences from multiple noisy traces affected by insertions, deletions, and substitutions.
