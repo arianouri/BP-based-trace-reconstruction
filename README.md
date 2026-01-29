@@ -2,6 +2,8 @@
 
 
 This repository considers reconstruction of source sequences from multiple noisy traces affected by insertions, deletions, and substitutions.
+- Preprint available at [arXiv:2601.18920 [cs.IT]](https://arxiv.org/abs/2601.18920).  
+
 
 # Key Files:
 
